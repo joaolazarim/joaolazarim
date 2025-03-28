@@ -21,23 +21,23 @@ Sou um engenheiro de software backend que trabalha principalmente com Java e Spr
 ## Principais Projetos
 <div>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekislla&theme=tokyonight&repo=legalflow)](https://github.com/Tekislla/legalflow)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolazarim&theme=tokyonight&repo=legalflow)](https://github.com/joaolazarim/legalflow)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekislla&theme=tokyonight&repo=salario-certo)](https://github.com/Tekislla/salario-certo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolazarim&theme=tokyonight&repo=salario-certo)](https://github.com/joaolazarim/salario-certo)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekislla&theme=tokyonight&repo=taskmanager)](https://github.com/Tekislla/taskmanager)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolazarim&theme=tokyonight&repo=taskmanager)](https://github.com/joaolazarim/taskmanager)
   
 </div>
 
 ## Estatísticas do GitHub
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekislla&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Utilizadas&exclude_repo=personal-sandbox,faculdade-sandbox,tecnico-sandbox,plantinha-iot" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolazarim&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Utilizadas&exclude_repo=personal-sandbox,faculdade-sandbox,tecnico-sandbox,plantinha-iot" alt="Top Languages"/>
   
   <br />
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=tekislla&show_icons=true&theme=tokyonight&hide_rank=true&custom_title=Estatísticas%20de%20João" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaolazarim&show_icons=true&theme=tokyonight&hide_rank=true&custom_title=Estatísticas%20de%20João" alt="GitHub Stats"/>
   
 </div>
 
