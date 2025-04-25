@@ -8,6 +8,7 @@ Sou um engenheiro de software backend que trabalha principalmente com Java e Spr
   - Bacharel em Engenharia de Software – Centro Universitário Católica de Santa Catarina  
   - Técnico em Informática – Instituto Federal Catarinense
 - **Experiência Profissional:**
+  - Co-founder da [Legisla.AI](https://www.legisla.ai/)
   - Engenheiro de Software na [MJV Technology & Innovation](https://www.mjvinnovation.com/pt-br)
   - Engenheiro de Software na [Qive](https://qive.com.br)
   - Desenvolvedor Fullstack na [ConexãoNF-e](https://cloud.conexaonfe.com.br)
