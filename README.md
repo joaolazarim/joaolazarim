@@ -4,10 +4,10 @@
 
 **Backend Software Engineer | Founder | Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-lazarim-de-souza-819a4320a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NyAySDMuNTNhMS40NSAxLjQ1IDAgMCAwLTEuNDcgMS40M3YxNy4xNEExLjQ1IDEuNDUgMCAwIDAgMy41MyAyMmgxNi45NGExLjQ1IDEuNDUgMCAwIDAgMS40Ny0xLjQzVjMuNDNBMS40NSAxLjQ1IDAgMCAwIDIwLjQ3IDJaTTguMDkgMTguNzRoLTN2LTloM3ptLTEuNS0xMC4yYTEuNzQgMS43NCAwIDEgMSAxLjc0LTEuNzQgMS43NCAxLjc0IDAgMCAxLTEuNzQgMS43NHptMTIuMzIgMTAuMmgtM3YtNC4zOGMwLTEuMDQtLjAyLTIuMzgtMS40NS0yLjM4LTEuNDUgMC0xLjY4IDEuMTMtMS42OCAyLjN2NC40NmgtM3YtOWgybC4yOCAxLjI1aC4wNGExLjY4IDEuNjggMCAwIDEgMS43Mi0xLjI1YzEuOTIgMCAyLjI4IDEuMjcgMi4yOCAyLjl2Ni4xeiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/joão-pedro-lazarim-de-souza-819a4320a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jplazarim@gmail.com)
 [![airuz.ai](https://img.shields.io/badge/airuz.ai-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://airuz.ai/)
-[![iloveqrcode.io](https://img.shields.io/badge/iloveqrcode.io-FF6B6B?style=for-the-badge&logo=qrcode&logoColor=white)](https://iloveqrcode.io/)
+[![iloveqrcode.io](https://img.shields.io/badge/%F0%9F%A4%8D_iloveqrcode.io-FF6B19?style=for-the-badge)](https://iloveqrcode.io/)
 
 </div>
 
